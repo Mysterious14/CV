@@ -1,0 +1,443 @@
+
+body{
+    background-color:#f5f7fa;
+    padding: 40px; 
+    font-family: Montserrat;
+}
+.wrapper{
+    width: 1288px;
+    background-color: white;
+    display: flex;
+}
+.sidebar{
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.img{
+    width: 370px;
+}
+.Contacts{
+    padding-top: 54px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.Contacts_title{
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color:white;
+    margin-bottom: 20px;
+
+}
+
+b{
+    color: #ffffff;
+    width: 14px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.tel{
+    color: #ffffff;
+    opacity: 0.5;
+    width: 166px;
+    padding-left: 10px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    text-decoration: none;
+}
+.email{
+    color: #ffffff;
+    opacity: 0.5;
+    width: 166px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 11px;
+    letter-spacing: 0.42px;
+    text-decoration: underline;
+
+}
+.discs{
+   color: #ff6b08;
+   padding-left: 17px;
+   font-style: normal;
+   letter-spacing: 0.42px;
+   line-height: 24px;
+   font-family: fantasy;
+   font-weight: 400;
+
+
+}
+span{
+    color:#D3D3D3;
+
+}
+.Tech_Skills{
+    padding-left: 22px;
+    width: 121px;
+    padding-left: 22px;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color:white;
+
+}
+.soft{
+    width: 112px;
+    padding-left: 22px;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color:white;
+}
+.about_me_container{
+    padding-bottom: 110px;
+    padding-top: 110px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.info{
+    width: 160px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight:700;
+    letter-spacing: 0.42px;
+    line-height: 24px;
+    height: 14px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-bottom: 18px
+
+}
+.name{
+    height: 45px;
+    width: 341px;
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-top:-10px;
+}
+.text{
+    width: 413px;
+    height: 107px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    line-height: normal;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: normal;
+}
+.project{
+    width: 93px;
+    height: 21px;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+
+}
+.to{
+    
+    width: 535px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+
+
+}
+.to1{
+    width: 535px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+
+}
+.to2{
+    width: 535px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;        
+}
+.number{
+    color:black;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+ol{
+    padding-left: 14px;
+}
+.txt{
+    width: 189px;
+    height: 63px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-decoration: none;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.txt1{
+    width: 138px;
+    height: 62px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+
+}
+.work{
+    
+    width: 197px;
+    height: 21px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    padding-top: 27px;
+}
+.work1{
+    width: 275px;
+    height: 15px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.freelance{
+    color: #ff6b08;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+
+.roga{
+color: #ff6b08;
+font-style: normal;
+letter-spacing: 0.48px;
+line-height: normal;
+}
+
+.roga1{
+color: #ff6b08;
+font-style: normal;
+letter-spacing: 0.48px;
+line-height: normal;
+
+}
+small{
+    width: 179px;
+    height: 13px;
+    color: #424040;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+
+
+.textarea{
+    width: 535px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.textarea1{
+    width: 411px;
+    height: 14px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.textarea2{
+    width: 537px;
+    height: 14px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.textarea3{    
+    width: 534px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.textarea4{
+
+    width: 534px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.textarea5{
+    width: 534px;
+    height: 38px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+}
+.educ{
+    width: 115px;
+    height: 17px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 86px;
+    font-style: normal;
+    letter-spacing: normal;
+    
+}
+
+.inst{
+    width: 705px;
+    height: 16px;
+    color: #ff6b08;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 4px;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+
+.prog{
+    width: 102px;
+    height: 13px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    font-style: normal;
+    letter-spacing: 0.42px;
+    padding-top: -58px;
+    margin-top: 9px;
+}
